@@ -1,0 +1,9 @@
+pip install fastapi uvicorn sqlalchemy pydantic alembic
+├── app
+│   ├── __init__.py
+│   ├── main.py
+│   ├── models.py
+│   ├── database.py
+│   ├── schemas.py
+├── alembic
+└── alembic.ini
